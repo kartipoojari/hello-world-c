@@ -1,13 +1,1 @@
-# hello-world-c
-# Hello World C Program
-
-This is my first C program using Git and GitHub.
-
-## How to Compile and Run
-
-gcc hello.c -o hello
-
-.\hello
-
-## Student Name
-Kartik
+Hi, I'm Kartik, a B.Tech Computer Science and Information Technology (CSIT) student at REVA University. I am learning programming, data structures, web development, and software development. This repository documents my learning journey, coding practice, and progress in building my technical skills.
